@@ -1,16 +1,104 @@
-## Hi there 👋
+<p align="center">
 
-<!--
-**loctrandev/loctrandev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&color=00F7FF&center=true&vCenter=true&width=800&lines=Hi+I'm+Loc+Tran;Unity+Game+Developer;Mobile+Puzzle+Game+Creator;Gameplay+System+Designer" />
 
-Here are some ideas to get you started:
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+# 🎮 Welcome to My Game Dev World
+
+```diff
++ Building fun mobile games
++ Designing gameplay systems
++ Optimizing Unity performance
+```
+
+---
+
+## 🚀 About Me
+
+🎮 Unity Game Developer
+🧩 Puzzle & Casual Game Mechanics
+⚡ Gameplay Systems & Architecture
+
+* 🔭 Currently building **mobile puzzle games**
+* 🌱 Learning **advanced Unity architecture**
+* 🎯 Focus on **performance & scalable systems**
+* 💡 Love solving **complex gameplay logic**
+
+---
+
+## 🛠 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=unity,cs,git,github,vscode,visualstudio" />
+
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=loctrandev&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=loctrandev&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=loctrandev&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=loctrandev&theme=tokyonight&no-frame=true&row=1&column=6"/>
+
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg"/>
+
+</p>
+
+---
+
+## 🌌 Random Dev Quote
+
+<p align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+
+</p>
+
+---
+
+## 📫 Contact
+
+📧 Email: [your-email@gmail.com](mailto:your-email@gmail.com)
+
+---
+
+<p align="center">
+
+⭐ *"Great games are built from small, well-designed systems."*
+
+</p>
